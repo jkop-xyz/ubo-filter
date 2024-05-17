@@ -1,0 +1,5 @@
+www.primevideo.com##div.portraitImage.xrayQuickViewListItem:nth-of-type(2)
+www.primevideo.com##.collectionView_f1ejv6l0.show.f1na3q09.f1hoalfx.xrayQuickViewList
+
+##.GcKpu
+google.com##.GcKpu
