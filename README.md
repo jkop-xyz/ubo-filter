@@ -1,0 +1,2 @@
+# ubo-filter
+uBlock Filter
